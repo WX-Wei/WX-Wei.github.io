@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. 
+
+I am a Ph.D. candidate at the Graduate School of Informatics, Kyoto University, working on audio intelligence, Music Information Retrieval (MIR), and multimodal music understanding. My research aims to bridge symbolic, auditory, and textual representations of music through deep learning, with a focus on building generalizable models that support cross-modal alignment, automatic music transcription, structure analysis, and semantic understanding.
+
+Before joining Kyoto University, I received my M.S. in Computer Science from Fudan University, where I specialized in intelligent media computing, and my B.S. from Zhejiang University. I have also worked as a research intern at ByteDance AI Lab and iFLYTEK Research, contributing to large-scale music classification, multimodal representation learning, and real-time speech recognition systems.
+
+My recent work explores efficient Transformer architectures, sparse attention mechanisms, optimal-transport-based sequence alignment, and multimodal pretraining for music understanding. I have authored papers accepted to ISMIR, ICME, APSIPA, and Springer LNEE, with ongoing submissions to ICASSP and IEEE/ACM TASLP. I also maintain open-source software, including [HarmoF0](https://github.com/WX-Wei/HarmoF0), a pitch estimation toolkit with 100+ GitHub stars.
+
+Broadly, I am interested in advancing machine listening and computational music understanding toward more robust, interpretable, and musically aware AI systems.
+
+
+
 
 # Educations
 ------
@@ -41,9 +51,6 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 
 
