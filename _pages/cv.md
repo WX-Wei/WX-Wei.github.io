@@ -24,12 +24,12 @@ Work experience
 
 * April 2022 - September 2022: Research Intern
   * AI Lab of ByteDance, Shanghai, China.
-  * Research Topics: music understanding, including genre, language, and re-creation recognition.
+  * Research Topics: Music information understanding, including genre, language, and re-creation recognition.
   * Supervisor: Junjie Yan
 
 * July 2018 - July 2019: C++ Software Develop Engineer
   * Supcon Technology Co., Ltd, Zhejiang, China
-  * Duties included: Development and maintenance of the industrial control system software VisualField
+  * Duties included: Development and maintenance of the industrial control system software VisualField.
   * Supervisor: Lanlan Chen
   
 Skills
