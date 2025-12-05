@@ -7,13 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+# Educations
+------
+* Ph.D in Graduate School of Informatics, Kyoto University, 2026 (expected)
+* M.S. in School of Computer Science, Fudan University, 2023
+* B.S. in College of Energy Engineering, Zhejiang University, 2018
+
+# Working Experiences
+------
+* April 2023 - Setember 2023: Mechine Learning Engineer
+  * Research Institude of iFlytek, Hefei, China.
+  * Duties includes: Speech recognation and understanding.
+  * Supervisor: Kai Shen
+
+* April 2022 - September 2022: Research Intern
+  * AI Lab of ByteDance, Shanghai, China.
+  * Research Topics: Music information understanding, including genre, language, and re-creation recognition.
+  * Supervisor: Junjie Yan
+
+* July 2018 - July 2019: C++ Software Develop Engineer
+  * Supcon Technology Co., Ltd, Zhejiang, China
+  * Duties included: Development and maintenance of the industrial control system software VisualField.
+  * Supervisor: Lanlan Chen
 
 
- Publications
-======
+# Publications
+------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
