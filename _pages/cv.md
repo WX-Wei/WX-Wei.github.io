@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, Kyoto University, 2026 (expected)
+* Ph.D in Graduate School of Informatics, Kyoto University, 2026 (expected)
 * M.S. in School of Computer Science, Fudan University, 2023
 * B.S. in College of Energy Engineering, Zhejiang University, 2018
 
@@ -47,18 +47,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
