@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Version Control Theory, Kyoto University, 2026 (expected)
+* M.S. in School of Computer Science, Fudan University, 2023
+* B.S. in College of Energy Engineering, Zhejiang University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2023 - Setember 2023: Mechine Learning Engineer
+  * Research Institude of iFlytek, Hefei, China.
+  * Duties includes: Speech recognation and understanding.
+  * Supervisor: Kai Shen
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2022 - September 2022: Research Intern
+  * AI Lab of ByteDance, Shanghai, China.
+  * Research Topics: music understanding, including genre, language, and re-creation recognition.
+  * Supervisor: Junjie Yan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2018 - July 2019: C++ Software Develop Engineer
+  * Supcon Technology Co., Ltd, Zhejiang, China
+  * Duties included: Development and maintenance of the industrial control system software VisualField
+  * Supervisor: Lanlan Chen
   
 Skills
 ======
