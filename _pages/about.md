@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+# About Me
 
 I am a Ph.D. candidate at the Graduate School of Informatics, Kyoto University, working on audio intelligence, Music Information Retrieval (MIR), and multimodal music understanding. My research aims to bridge symbolic, auditory, and textual representations of music through deep learning, with a focus on building generalizable models that support cross-modal alignment, automatic music transcription, structure analysis, and semantic understanding.
 
